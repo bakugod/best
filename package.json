@@ -1,0 +1,23 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "my first package",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bakugod/hello.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bakugod/hello/issues"
+  },
+  "homepage": "https://github.com/bakugod/hello#readme",
+  "dependencies": {
+    "sass": "^1.17.3",
+    "webpack": "^4.29.6"
+  }
+}
